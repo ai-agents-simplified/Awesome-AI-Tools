@@ -42,6 +42,7 @@ AI tools can be categorized based on their primary functionalities:
 | [Hugging Face Transformers](https://huggingface.co/) | Pre-trained models for NLP and other AI tasks.                | NLP                 |
 | [Stable Diffusion](https://stablediffusionweb.com/) | AI-powered image generation and manipulation.                  | Computer Vision     |
 | [LangChain](https://github.com/hwchase17/langchain) | Framework for building AI-powered applications with LLMs.        | NLP                 |
+| [OpenMagic](https://github.com/Kalmuraee/OpenMagic) | AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy. | Automation & Productivity |
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
 | [DALL·E](https://openai.com/dall-e)             | AI-powered image generation tool from OpenAI.                     | Computer Vision     |
 
