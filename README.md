@@ -15,6 +15,7 @@ This repository gathers the best AI tools available today, covering various doma
 ## 📌 Table of Contents
 
 - [Introduction](#-introduction)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [Categories](#-categories)
 - [Featured AI Tools](#-featured-ai-tools)
 - [Resources](#-resources)
