@@ -44,6 +44,7 @@ AI tools can be categorized based on their primary functionalities:
 | [LangChain](https://github.com/hwchase17/langchain) | Framework for building AI-powered applications with LLMs.        | NLP                 |
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
 | [DALL·E](https://openai.com/dall-e)             | AI-powered image generation tool from OpenAI.                     | Computer Vision     |
+| [MindMap AI](https://mindmapai.app/ai-mindmap-maker)           |  AI-powered tool for organizing ideas, structuring content, and transforming text, documents, and research into visual mind maps                     | Productivity     |
 
 > Want to add your AI tool to this list? See [Contributing](#-contributing)!
 
