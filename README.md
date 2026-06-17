@@ -44,6 +44,7 @@ AI tools can be categorized based on their primary functionalities:
 | [LangChain](https://github.com/hwchase17/langchain) | Framework for building AI-powered applications with LLMs.        | NLP                 |
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
 | [DALL·E](https://openai.com/dall-e)             | AI-powered image generation tool from OpenAI.                     | Computer Vision     |
+| [Seedream AI Studio](https://seedream4.video/) | ByteDance's multi-model image generation platform (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena; supports up to 10 reference images and one-click video via Kling 2.1. | Computer Vision     |
 
 > Want to add your AI tool to this list? See [Contributing](#-contributing)!
 
