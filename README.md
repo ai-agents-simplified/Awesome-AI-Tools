@@ -44,6 +44,7 @@ AI tools can be categorized based on their primary functionalities:
 | [LangChain](https://github.com/hwchase17/langchain) | Framework for building AI-powered applications with LLMs.        | NLP                 |
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
 | [DALL·E](https://openai.com/dall-e)             | AI-powered image generation tool from OpenAI.                     | Computer Vision     |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. | Automation & Productivity |
 
 > Want to add your AI tool to this list? See [Contributing](#-contributing)!
 
