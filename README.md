@@ -44,6 +44,7 @@ AI tools can be categorized based on their primary functionalities:
 | [LangChain](https://github.com/hwchase17/langchain) | Framework for building AI-powered applications with LLMs.        | NLP                 |
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
 | [DALL·E](https://openai.com/dall-e)             | AI-powered image generation tool from OpenAI.                     | Computer Vision     |
+| [CallURL](https://callurl.com)                   | Shareable Call Apps that are given a job and handle calls.        | Automation & Productivity |
 
 > Want to add your AI tool to this list? See [Contributing](#-contributing)!
 
@@ -72,4 +73,3 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 ---
 
 ⭐ **Star this repo** if you find it useful and want to support the project!
-
