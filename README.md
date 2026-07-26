@@ -45,6 +45,8 @@ AI tools can be categorized based on their primary functionalities:
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
 | [DALL·E](https://openai.com/dall-e)             | AI-powered image generation tool from OpenAI.                     | Computer Vision     |
 
+| [Gpt](https://trygrokai.asia) | AI tool for productivity, content workflows, research, and daily work. | Automation & Productivity |
+
 > Want to add your AI tool to this list? See [Contributing](#-contributing)!
 
 ## 📚 Resources
