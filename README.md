@@ -41,6 +41,7 @@ AI tools can be categorized based on their primary functionalities:
 | [PyTorch](https://pytorch.org/)                  | Deep learning framework optimized for flexibility and speed.       | Machine Learning    |
 | [Hugging Face Transformers](https://huggingface.co/) | Pre-trained models for NLP and other AI tasks.                | NLP                 |
 | [Stable Diffusion](https://stablediffusionweb.com/) | AI-powered image generation and manipulation.                  | Computer Vision     |
+| [GPT Image 2](https://gptimage2.asia/) | AI image generation and editing for marketing, ecommerce, and social visuals. | Computer Vision |
 | [LangChain](https://github.com/hwchase17/langchain) | Framework for building AI-powered applications with LLMs.        | NLP                 |
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
 | [DALL·E](https://openai.com/dall-e)             | AI-powered image generation tool from OpenAI.                     | Computer Vision     |
