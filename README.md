@@ -54,6 +54,7 @@ Explore more AI resources and communities:
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) – A curated list of ML frameworks and libraries.
 - [AI Papers](https://arxiv.org/list/cs.AI/recent) – Latest AI research papers from arXiv.
 - [Fast.ai](https://www.fast.ai/) – AI courses and tutorials for deep learning.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) – Local-first payment runtime and stdio MCP developer resource for x402 offer inspection, bounded preparation and receipt recovery; Apple Silicon macOS and Node 24.
 
 ## 🤝 Contributing
 
