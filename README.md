@@ -40,6 +40,7 @@ AI tools can be categorized based on their primary functionalities:
 | [TensorFlow](https://www.tensorflow.org/)        | Open-source machine learning framework by Google.                  | Machine Learning    |
 | [PyTorch](https://pytorch.org/)                  | Deep learning framework optimized for flexibility and speed.       | Machine Learning    |
 | [Hugging Face Transformers](https://huggingface.co/) | Pre-trained models for NLP and other AI tasks.                | NLP                 |
+| [JobEmerge](https://www.jobemerge.work)             | Job-fit checks, resume editing and translation, application tracking, and text mock interviews. | Automation & Productivity |
 | [Stable Diffusion](https://stablediffusionweb.com/) | AI-powered image generation and manipulation.                  | Computer Vision     |
 | [LangChain](https://github.com/hwchase17/langchain) | Framework for building AI-powered applications with LLMs.        | NLP                 |
 | [AutoML](https://cloud.google.com/automl)        | Automated machine learning platform.                              | Machine Learning    |
