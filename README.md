@@ -73,3 +73,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ⭐ **Star this repo** if you find it useful and want to support the project!
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
